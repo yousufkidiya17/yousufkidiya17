@@ -2,21 +2,24 @@
 
 <h3><code>yousuf@github ~ $ whoami</code></h3>
 
-<table>
-<tr>
-<td valign="top"><img src="./yousuf-ascii.svg" width="370" alt="Mohammed Yousuf — ASCII portrait" /></td>
-<td valign="top"><img src="./yousuf-wordmark.svg" width="490" alt="YOUSUF — 3D ASCII wordmark" /></td>
-</tr>
-</table>
+<!-- Portrait — big, centred. Types in, then sways gently. -->
+<img src="./yousuf-ascii.svg" width="600" alt="Mohammed Yousuf — ASCII portrait" />
+
+<br>
+
+<!-- M.Yousuf 3D wordmark — below the portrait, spins forever -->
+<h3><code>yousuf@github ~ $ ./wordmark.sh --3d</code></h3>
+<img src="./yousuf-wordmark.svg" width="520" alt="M.Yousuf — 3D ASCII wordmark" />
 
 <br>
 <br>
 
+<!-- Taglines — continue-writing (type -> erase -> next) below the name -->
 <h3><code>yousuf@github ~ $ ./intro.sh</code></h3>
 
 <p><b>Founder · Building the Execution Layer of AI · Free-AI Believer</b></p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+Intent+into+Real-World+Actions;Free+AI+for+Everyone" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+Intent+into+Real-World+Actions;Free+AI+for+Everyone;Execution+Layer+of+AI+%E2%9A%A1" alt="Typing SVG" />
 
 <br>
 <br>
