@@ -1,15 +1,24 @@
 <div align="center">
 
-<!-- Avatar (live GitHub photo) + typing effect -->
-<img src="https://github.com/yousufkidiya17.png" width="130" height="130" style="border-radius:50%" alt="Mohammed Yousuf" />
+<h3><code>yousuf@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./yousuf-ascii.svg" width="370" alt="Mohammed Yousuf — ASCII portrait" /></td>
+<td valign="top"><img src="./yousuf-wordmark.svg" width="490" alt="YOUSUF — 3D ASCII wordmark" /></td>
+</tr>
+</table>
 
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Mohammed+Yousuf;Founder+—+Execution+Layer+of+AI;Turning+Intent+into+Real-World+Actions;Free+AI+for+Everyone" alt="Typing SVG" />
-
 <br>
 
-**`yousuf@github ~ $ whoami`** — *AI Builder · Founder · Free-AI Believer* 🤖
+<h3><code>yousuf@github ~ $ ./intro.sh</code></h3>
+
+<p><b>Founder · Building the Execution Layer of AI · Free-AI Believer</b></p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+Intent+into+Real-World+Actions;Free+AI+for+Everyone" alt="Typing SVG" />
+
+<br>
 
 </div>
 
