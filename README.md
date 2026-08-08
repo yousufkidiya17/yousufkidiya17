@@ -19,6 +19,22 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=500&lines=Turning+Intent+into+Real-World+Actions;Free+AI+for+Everyone" alt="Typing SVG" />
 
 <br>
+<br>
+
+<h3><code>yousuf@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph — auto-refreshed daily" />
+
+<br>
+<br>
+
+<h3><code>yousuf@github ~ $ ./links.sh</code></h3>
+
+<a href="https://github.com/yousufkidiya17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.youtube.com/@yousufkidiya17"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yousufkidiya17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+<br>
 
 </div>
 
