@@ -2,14 +2,12 @@
 
 <h3><code>yousuf@github ~ $ whoami</code></h3>
 
-<!-- Portrait — big, centred. Types in, then sways gently. -->
-<img src="./yousuf-ascii.svg" width="240" alt="Mohammed Yousuf — ASCII portrait" />
-
-<br>
-
-<!-- M.Yousuf 3D wordmark — below the portrait, spins forever -->
-<h3><code>yousuf@github ~ $ ./wordmark.sh --3d</code></h3>
-<img src="./yousuf-wordmark.svg" width="300" alt="M.Yousuf — 3D ASCII wordmark" />
+<table>
+<tr>
+<td valign="top"><img src="./yousuf-ascii.svg" width="340" alt="Mohammed Yousuf — ASCII portrait" /></td>
+<td valign="top"><img src="./yousuf-about.svg" width="440" alt="About — terminal with 3D M.Yousuf" /></td>
+</tr>
+</table>
 
 <br>
 <br>
