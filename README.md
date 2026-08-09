@@ -3,13 +3,13 @@
 <h3><code>yousuf@github ~ $ whoami</code></h3>
 
 <!-- Portrait — big, centred. Types in, then sways gently. -->
-<img src="./yousuf-ascii.svg" width="600" alt="Mohammed Yousuf — ASCII portrait" />
+<img src="./yousuf-ascii.svg" width="380" alt="Mohammed Yousuf — ASCII portrait" />
 
 <br>
 
 <!-- M.Yousuf 3D wordmark — below the portrait, spins forever -->
 <h3><code>yousuf@github ~ $ ./wordmark.sh --3d</code></h3>
-<img src="./yousuf-wordmark.svg" width="520" alt="M.Yousuf — 3D ASCII wordmark" />
+<img src="./yousuf-wordmark.svg" width="440" alt="M.Yousuf — 3D ASCII wordmark" />
 
 <br>
 <br>
