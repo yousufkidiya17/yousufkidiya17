@@ -1,26 +1,26 @@
 {
   "username": "yousufkidiya17",
-  "generated_at": "2026-08-09T11:27:11Z",
+  "generated_at": "2026-08-10T08:07:11Z",
   "range": {
     "start": "2025-08-10",
-    "end": "2026-08-09"
+    "end": "2026-08-10"
   },
-  "total_contributions": 67,
-  "active_days": 12,
-  "avg_per_active_day": 5.6,
+  "total_contributions": 90,
+  "active_days": 17,
+  "avg_per_active_day": 5.3,
   "current_streak": {
-    "length": 3,
-    "start": "2026-08-07",
+    "length": 11,
+    "start": "2026-07-30",
     "end": "2026-08-09"
   },
   "longest_streak": {
-    "length": 3,
-    "start": "2026-08-07",
+    "length": 11,
+    "start": "2026-07-30",
     "end": "2026-08-09"
   },
   "best_day": {
-    "date": "2026-08-08",
-    "count": 19
+    "date": "2026-08-09",
+    "count": 26
   },
   "monthly": [
     {
@@ -69,11 +69,11 @@
     },
     {
       "month": "2026-07",
-      "total": 5
+      "total": 6
     },
     {
       "month": "2026-08",
-      "total": 43
+      "total": 65
     }
   ],
   "days": [
@@ -1499,43 +1499,47 @@
     },
     {
       "date": "2026-07-31",
-      "count": 4
+      "count": 5
     },
     {
       "date": "2026-08-01",
-      "count": 0
-    },
-    {
-      "date": "2026-08-02",
-      "count": 0
-    },
-    {
-      "date": "2026-08-03",
-      "count": 0
-    },
-    {
-      "date": "2026-08-04",
-      "count": 0
-    },
-    {
-      "date": "2026-08-05",
-      "count": 11
-    },
-    {
-      "date": "2026-08-06",
-      "count": 0
-    },
-    {
-      "date": "2026-08-07",
       "count": 1
     },
     {
+      "date": "2026-08-02",
+      "count": 1
+    },
+    {
+      "date": "2026-08-03",
+      "count": 1
+    },
+    {
+      "date": "2026-08-04",
+      "count": 1
+    },
+    {
+      "date": "2026-08-05",
+      "count": 12
+    },
+    {
+      "date": "2026-08-06",
+      "count": 1
+    },
+    {
+      "date": "2026-08-07",
+      "count": 2
+    },
+    {
       "date": "2026-08-08",
-      "count": 19
+      "count": 20
     },
     {
       "date": "2026-08-09",
-      "count": 12
+      "count": 26
+    },
+    {
+      "date": "2026-08-10",
+      "count": 0
     }
   ]
 }
