@@ -1,26 +1,26 @@
 {
   "username": "yousufkidiya17",
-  "generated_at": "2026-08-11T07:40:01Z",
+  "generated_at": "2026-08-11T15:08:06Z",
   "range": {
     "start": "2025-08-10",
     "end": "2026-08-11"
   },
-  "total_contributions": 91,
-  "active_days": 18,
-  "avg_per_active_day": 5.1,
+  "total_contributions": 124,
+  "active_days": 50,
+  "avg_per_active_day": 2.5,
   "current_streak": {
-    "length": 12,
+    "length": 13,
     "start": "2026-07-30",
-    "end": "2026-08-10"
+    "end": "2026-08-11"
   },
   "longest_streak": {
-    "length": 12,
-    "start": "2026-07-30",
-    "end": "2026-08-10"
+    "length": 31,
+    "start": "2026-05-01",
+    "end": "2026-05-31"
   },
   "best_day": {
     "date": "2026-08-09",
-    "count": 26
+    "count": 27
   },
   "monthly": [
     {
@@ -61,7 +61,7 @@
     },
     {
       "month": "2026-05",
-      "total": 0
+      "total": 31
     },
     {
       "month": "2026-06",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 66
+      "total": 68
     }
   ],
   "days": [
@@ -1135,127 +1135,127 @@
     },
     {
       "date": "2026-05-01",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-02",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-03",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-04",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-05",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-06",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-07",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-08",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-09",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-10",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-11",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-12",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-13",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-14",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-15",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-16",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-17",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-18",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-19",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-20",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-21",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-22",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-23",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-24",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-25",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-26",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-27",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-28",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-29",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-30",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-05-31",
-      "count": 0
+      "count": 1
     },
     {
       "date": "2026-06-01",
@@ -1535,7 +1535,7 @@
     },
     {
       "date": "2026-08-09",
-      "count": 26
+      "count": 27
     },
     {
       "date": "2026-08-10",
@@ -1543,7 +1543,7 @@
     },
     {
       "date": "2026-08-11",
-      "count": 0
+      "count": 1
     }
   ]
 }
