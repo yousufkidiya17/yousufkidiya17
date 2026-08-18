@@ -12,16 +12,6 @@
 <br>
 <br>
 
-<!-- Taglines — continue-writing (type -> erase -> next) below the name -->
-<h3><code>yousuf@github ~ $ ./intro.sh</code></h3>
-
-<p><b>Founder · Building the Execution Layer of AI · Free-AI Believer</b></p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=520&lines=Turning+Intent+into+Real-World+Actions;Free+AI+for+Everyone;Execution+Layer+of+AI+%E2%9A%A1" alt="Typing SVG" />
-
-<br>
-<br>
-
 <h3><code>yousuf@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph — auto-refreshed daily" />
@@ -43,7 +33,7 @@
 
 ## 🧠 About Me
 
-**Founder || Building the Execution Layer of AI || Turning Intent into Real-World Actions**
+**Founder || Turning Intent into Real-World Actions**
 
 Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 
@@ -94,8 +84,6 @@ yousuf@github ~$ ./hermeszen --install
 ✅ Hermes + bridge + 7 free models + vision — DONE
 yousuf@github ~$ ./hermes --start
 ⚡ Agent online. Ask anything — no API key, no credit card.
-yousuf@github ~$ echo "$(cat /dev/ai_belief)"
-→ "Execution Layer of AI — intent se kaam tak" 🚀
 ```
 
 <br>
