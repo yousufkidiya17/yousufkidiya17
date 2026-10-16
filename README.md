@@ -48,7 +48,8 @@ Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 
 | Project | What it is |
 |---|---|
-| **[hermeszen-ai](https://github.com/yousufkidiya17/hermeszen-ai)** | ⭐ Flagship — Zero-setup Hermes AI agent. 7 free models (OpenCode Zen), web search + fetch, vision, 1-click install for Win/macOS/Linux |
+| **[tally-mcp](https://github.com/yousufkidiya17/tally-mcp)** | ⭐ Flagship Enterprise — Production Model Context Protocol (MCP) server for Tally Prime. 70 tools for automated GST billing, ledgers, multi-godown inventory, vouchers & PDF invoices with fail-closed security gating (214 tests passing). |
+| **[hermeszen-ai](https://github.com/yousufkidiya17/hermeszen-ai)** | Zero-setup Hermes AI agent. 7 free models (OpenCode Zen), web search + fetch, vision, 1-click install for Win/macOS/Linux |
 | **[hermes-mobile-modified](https://github.com/yousufkidiya17/hermes-mobile-modified)** | Hermes Mobile with embedded engine, terminal, skills & tools — full agent on your phone |
 | **[aetherix-ai](https://github.com/yousufkidiya17/aetherix-ai)** | AI-Powered Service Marketplace — order food, book rides, hire workers, check weather & search web through one chat interface (React, TS, Express, Mistral AI) |
 | [opencode-local-proxy](https://github.com/yousufkidiya17/opencode-local-proxy) | Portable OpenAI-compatible API gateway — proxies free OpenCode AI models locally, glassmorphic dashboard & playground |

@@ -5,7 +5,7 @@ name: Update profile art
 
 "on":
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes
+    - cron: "0 */12 * * *"   # twice daily at 00:00 and 12:00 UTC
   workflow_dispatch: {}
   push:
     branches: [main]
