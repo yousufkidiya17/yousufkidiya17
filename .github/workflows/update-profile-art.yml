@@ -18,6 +18,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - uses: actions/setup-python@v5
         with:
@@ -40,3 +42,4 @@ jobs:
           commit_message: "chore: refresh contribution graph [skip ci]"
           commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
           file_pattern: "data/contributions.json contrib-heatmap.svg"
+          push_options: "--force"
