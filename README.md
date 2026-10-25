@@ -21,9 +21,9 @@
 
 <h3><code>yousuf@github ~ $ ./links.sh</code></h3>
 
-<a href="https://github.com/yousufkidiya17"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.youtube.com/@yousufkidiya17"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:kidiyayousuf17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/mohd_yousuf.17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br>
 
@@ -92,8 +92,8 @@ yousuf@github ~$ ./hermes --start
 ## 📣 Let's Connect
 
 <a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/yousufkidiya17"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" /></a>
-<a href="https://www.youtube.com/@yousufkidiya17"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white" /></a>
+<a href="mailto:kidiyayousuf17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/mohd_yousuf.17/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 
 **⭐ Star [HermesZen](https://github.com/yousufkidiya17/hermeszen-ai) — free AI, zero setup, sab ke liye!**
 
