@@ -1,7 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 531 338" width="531" height="338">
-<rect width="531" height="338" fill="#0d1117" />
-<rect x="0" y="0" width="531" height="30" fill="#111722" />
-<line x1="0" y1="30" x2="531" y2="30" stroke="#30363d" />
+<defs><linearGradient id="abg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0d1420" /><stop offset="1" stop-color="#0a0e14" /></linearGradient></defs><rect width="531" height="338" fill="url(#abg)" rx="12" />
+<rect x="0.5" y="0.5" width="530" height="337" fill="none" stroke="#1f6feb" stroke-width="1" stroke-opacity="0.55" rx="12" /><line x1="0" y1="30" x2="531" y2="30" stroke="#1f6feb" stroke-opacity="0.35" />
 <circle cx="20" cy="15.0" r="5" fill="#ff5f56" />
 <circle cx="36" cy="15.0" r="5" fill="#ffbd2e" />
 <circle cx="52" cy="15.0" r="5" fill="#27c93f" />
@@ -22,7 +21,7 @@
 <g clip-path="url(#ab10)"><text xml:space="preserve" x="20" y="248.0" font-size="15.5" fill="#c9d1d9" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas">Solving real-world problems.</text></g>
 <clipPath id="ab12"><rect x="20" y="279.0" height="22" width="0"><animate attributeName="width" values="0;491;491;0" keyTimes="0;0.380;0.800;1" begin="2.420s" dur="13.0s" repeatCount="indefinite" /></rect></clipPath>
 <g clip-path="url(#ab12)" />
-<line x1="0" y1="314.0" x2="531" y2="314.0" stroke="#30363d" />
+<line x1="0" y1="314.0" x2="531" y2="314.0" stroke="#1f6feb" stroke-opacity="0.25" />
 <text x="20" y="334.0" fill="#7d8590" font-size="13" font-family="ui-monospace, Menlo, Consolas"><tspan fill="#38bdf8">~$</tspan> ./about.sh --continue</text>
 <rect x="216" y="321.0" width="8" height="14" fill="#c9d1d9"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.51;1" dur="1s" repeatCount="indefinite" /></rect>
 
