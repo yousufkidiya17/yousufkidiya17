@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="118" viewBox="0 0 400 118">
+<rect x="0.5" y="0.5" width="399" height="117" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="16" y="28" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#e6edf3">smart-trading-scanner</text>
+<text x="16" y="52" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">Smart Money Concept Scanner for Indian Stocks &amp;</text>
+<text x="16" y="72" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">Crypto, liquidity sweeps, order blocks, FVGs &amp;</text>
+<text x="16" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">institutional flow detection (Python + Streamlit)</text>
+</svg>
