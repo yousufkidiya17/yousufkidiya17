@@ -71,6 +71,4 @@ Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 <a href="mailto:kidiyayousuf17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/mohd_yousuf.17/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 
-**⭐ Star [HermesZen](https://github.com/yousufkidiya17/hermeszen-ai) — free AI, zero setup, sab ke liye!**
-
-<sub>Profile built with ❤️ + Hermes</sub>
+<sub>Profile built by 🤍</sub>
