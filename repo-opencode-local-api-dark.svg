@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="118" viewBox="0 0 400 118">
-<rect x="0.5" y="0.5" width="399" height="117" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="16" y="28" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="400" fill="#e6edf3">opencode-local-api</text>
-<text x="16" y="52" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">Supercharge OpenCode AI Agents, terminal access,</text>
-<text x="16" y="72" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">safe file editing, background tasks &amp; live web</text>
-<text x="16" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">search via a lightweight Python API server</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="148" viewBox="0 0 400 148">
+<rect x="0.5" y="0.5" width="399" height="147" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="16" y="30" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="400" fill="#e6edf3">opencode-local-api</text>
+<text x="16" y="56" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">Supercharge OpenCode AI Agents, terminal</text>
+<text x="16" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">access, safe file editing, background tasks &amp;</text>
+<text x="16" y="100" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">live web search via a lightweight Python API</text>
+<text x="16" y="122" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">server</text>
 </svg>

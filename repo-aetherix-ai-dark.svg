@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="138" viewBox="0 0 400 138">
-<rect x="0.5" y="0.5" width="399" height="137" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="16" y="28" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#e6edf3">aetherix-ai</text>
-<text x="16" y="52" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">AI-Powered Service Marketplace, order food, book</text>
-<text x="16" y="72" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">rides, hire workers, check weather &amp; search web</text>
-<text x="16" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">through one chat interface (React, TS, Express,</text>
-<text x="16" y="112" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">Mistral AI)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="148" viewBox="0 0 400 148">
+<rect x="0.5" y="0.5" width="399" height="147" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="16" y="30" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">aetherix-ai</text>
+<text x="16" y="56" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">AI-Powered Service Marketplace, order food,</text>
+<text x="16" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">book rides, hire workers, check weather &amp;</text>
+<text x="16" y="100" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">search web through one chat interface (React,</text>
+<text x="16" y="122" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">TS, Express, Mistral AI)</text>
 </svg>

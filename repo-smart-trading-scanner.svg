@@ -1,7 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="118" viewBox="0 0 400 118">
-<rect x="0.5" y="0.5" width="399" height="117" rx="8" fill="#ffffff" stroke="#e4e4e7"/>
-<text x="16" y="28" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#262626">smart-trading-scanner</text>
-<text x="16" y="52" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#6a6a6a">Smart Money Concept Scanner for Indian Stocks &amp;</text>
-<text x="16" y="72" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#6a6a6a">Crypto, liquidity sweeps, order blocks, FVGs &amp;</text>
-<text x="16" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#6a6a6a">institutional flow detection (Python + Streamlit)</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="148" viewBox="0 0 400 148">
+<rect x="0.5" y="0.5" width="399" height="147" rx="8" fill="#ffffff" stroke="#e4e4e7"/>
+<text x="16" y="30" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#262626">smart-trading-scanner</text>
+<text x="16" y="56" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#6a6a6a">Smart Money Concept Scanner for Indian Stocks</text>
+<text x="16" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#6a6a6a">&amp; Crypto, liquidity sweeps, order blocks, FVGs</text>
+<text x="16" y="100" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#6a6a6a">&amp; institutional flow detection (Python +</text>
+<text x="16" y="122" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#6a6a6a">Streamlit)</text>
 </svg>

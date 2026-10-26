@@ -1,9 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="158" viewBox="0 0 400 158">
-<rect x="0.5" y="0.5" width="399" height="157" rx="8" fill="#161b22" stroke="#30363d"/>
-<text x="16" y="28" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="700" fill="#e6edf3">tally-mcp</text>
-<text x="16" y="52" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">Flagship Enterprise, Production Model Context</text>
-<text x="16" y="72" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">Protocol (MCP) server for Tally Prime. 70 tools for</text>
-<text x="16" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">automated GST billing, ledgers, multi-godown</text>
-<text x="16" y="112" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">inventory, vouchers &amp; PDF invoices with fail-closed</text>
-<text x="16" y="132" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#7d8590">security gating (214 tests passing).</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="192" viewBox="0 0 400 192">
+<rect x="0.5" y="0.5" width="399" height="191" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="16" y="30" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">tally-mcp</text>
+<text x="16" y="56" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">Flagship Enterprise, Production Model Context</text>
+<text x="16" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">Protocol (MCP) server for Tally Prime. 70</text>
+<text x="16" y="100" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">tools for automated GST billing, ledgers,</text>
+<text x="16" y="122" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">multi-godown inventory, vouchers &amp; PDF</text>
+<text x="16" y="144" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">invoices with fail-closed security gating (214</text>
+<text x="16" y="166" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">tests passing).</text>
 </svg>
