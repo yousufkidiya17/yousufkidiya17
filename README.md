@@ -6,7 +6,7 @@
 <br>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./about-dark.svg"/><img src="./about.svg" width="840"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./about-card-dark.svg"/><img src="./about-card.svg" width="840"></picture>
 
 <br>
 <br>
