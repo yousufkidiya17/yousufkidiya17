@@ -44,11 +44,11 @@ Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 
 <br>
 
-## 🚀 Projects
+## Projects
 
 | Project | What it is |
 |---|---|
-| **[tally-mcp](https://github.com/yousufkidiya17/tally-mcp)** | ⭐ Flagship Enterprise, Production Model Context Protocol (MCP) server for Tally Prime. 70 tools for automated GST billing, ledgers, multi-godown inventory, vouchers & PDF invoices with fail-closed security gating (214 tests passing). |
+| **[tally-mcp](https://github.com/yousufkidiya17/tally-mcp)** | Flagship Enterprise, Production Model Context Protocol (MCP) server for Tally Prime. 70 tools for automated GST billing, ledgers, multi-godown inventory, vouchers & PDF invoices with fail-closed security gating (214 tests passing). |
 | **[aiml-journey](https://github.com/yousufkidiya17/aiml-journey)** | End-to-End AI/ML Engineering Journey, production-grade notebooks, Python fundamentals, NumPy, Data Analytics, and Deep Learning implementations. |
 | **[aetherix-ai](https://github.com/yousufkidiya17/aetherix-ai)** | AI-Powered Service Marketplace, order food, book rides, hire workers, check weather & search web through one chat interface (React, TS, Express, Mistral AI) |
 | **[smart-trading-scanner](https://github.com/yousufkidiya17/smart-trading-scanner)** | Smart Money Concept Scanner for Indian Stocks & Crypto, liquidity sweeps, order blocks, FVGs & institutional flow detection (Python + Streamlit) |
