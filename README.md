@@ -5,18 +5,18 @@
 <br>
 <br>
 
-<h3><code>yousuf@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>yousuf@github ~ $ ./links.sh</code></h3>
 
-<a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:kidiyayousuf17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.instagram.com/mohd_yousuf.17/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><img src="./social-linkedin.svg" height="36" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:kidiyayousuf17@gmail.com"><img src="./social-email.svg" height="36" alt="Email" /></a>&nbsp;
+  <a href="https://www.instagram.com/mohd_yousuf.17/"><img src="./social-instagram.svg" height="36" alt="Instagram" /></a>
+</p>
 
 <br>
 
@@ -39,22 +39,30 @@ Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 
 ## Projects
 
-| Project | What it is |
-|---|---|
-| **[tally-mcp](https://github.com/yousufkidiya17/tally-mcp)** | Flagship Enterprise, Production Model Context Protocol (MCP) server for Tally Prime. 70 tools for automated GST billing, ledgers, multi-godown inventory, vouchers & PDF invoices with fail-closed security gating (214 tests passing). |
-| **[aiml-journey](https://github.com/yousufkidiya17/aiml-journey)** | End-to-End AI/ML Engineering Journey, production-grade notebooks, Python fundamentals, NumPy, Data Analytics, and Deep Learning implementations. |
-| **[aetherix-ai](https://github.com/yousufkidiya17/aetherix-ai)** | AI-Powered Service Marketplace, order food, book rides, hire workers, check weather & search web through one chat interface (React, TS, Express, Mistral AI) |
-| **[smart-trading-scanner](https://github.com/yousufkidiya17/smart-trading-scanner)** | Smart Money Concept Scanner for Indian Stocks & Crypto, liquidity sweeps, order blocks, FVGs & institutional flow detection (Python + Streamlit) |
-| [OPEN-HERMES](https://github.com/yousufkidiya17/OPEN-HERMES) | Zero-setup Hermes AI agent, free OpenCode Zen models, web search + fetch built-in, vision ready. Install & chat. |
-| [hermeszen-adk](https://github.com/yousufkidiya17/hermeszen-adk) | AI agent team that builds real projects daily, Google ADK + DeepSeek via OpenCode Zen bridge |
-| [train-travel-assistant](https://github.com/yousufkidiya17/train-travel-assistant) | Indian Railway AI Assistant, PNR status, seat availability, live train tracking & fare comparison (Python + Flask + AI) |
-| [opencode-local-api](https://github.com/yousufkidiya17/opencode-local-api) | Supercharge OpenCode AI Agents, terminal access, safe file editing, background tasks & live web search via a lightweight Python API server |
+<table>
+<tr>
+<td width="50%"><a href="https://github.com/yousufkidiya17/tally-mcp"><img src="./repo-tally-mcp.svg" width="100%" alt="tally-mcp" /></a></td>
+<td width="50%"><a href="https://github.com/yousufkidiya17/aiml-journey"><img src="./repo-aiml-journey.svg" width="100%" alt="aiml-journey" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/yousufkidiya17/aetherix-ai"><img src="./repo-aetherix-ai.svg" width="100%" alt="aetherix-ai" /></a></td>
+<td width="50%"><a href="https://github.com/yousufkidiya17/smart-trading-scanner"><img src="./repo-smart-trading-scanner.svg" width="100%" alt="smart-trading-scanner" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/yousufkidiya17/OPEN-HERMES"><img src="./repo-open-hermes.svg" width="100%" alt="OPEN-HERMES" /></a></td>
+<td width="50%"><a href="https://github.com/yousufkidiya17/hermeszen-adk"><img src="./repo-hermeszen-adk.svg" width="100%" alt="hermeszen-adk" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/yousufkidiya17/train-travel-assistant"><img src="./repo-train-travel-assistant.svg" width="100%" alt="train-travel-assistant" /></a></td>
+<td width="50%"><a href="https://github.com/yousufkidiya17/opencode-local-api"><img src="./repo-opencode-local-api.svg" width="100%" alt="opencode-local-api" /></a></td>
+</tr>
+</table>
 
 <br>
 
 ## 🛠 Tech I Work With
 
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/GCP-4285F4?logo=googlecloud&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=black" /> <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" /> <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+<p align="center"><img src="./stack.svg" width="100%" alt="Tech stack" /></p>
 
 <br>
 

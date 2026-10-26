@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="118" viewBox="0 0 400 118">
+<rect x="0.5" y="0.5" width="399" height="117" rx="8" fill="#ffffff" stroke="#e4e4e7"/>
+<text x="16" y="28" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="400" fill="#262626">opencode-local-api</text>
+<text x="16" y="52" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#6a6a6a">Supercharge OpenCode AI Agents, terminal access,</text>
+<text x="16" y="72" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#6a6a6a">safe file editing, background tasks &amp; live web</text>
+<text x="16" y="92" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" fill="#6a6a6a">search via a lightweight Python API server</text>
+</svg>
