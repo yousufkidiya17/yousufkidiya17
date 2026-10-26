@@ -31,16 +31,16 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-**Founder || Turning Intent into Real-World Actions**
+**Tech Explorer || Turning Intent into Real-World Actions**
 
 Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 
-- 🏭 **4+ years** hands-on experience in the commodity & FMCG distribution ecosystem — operations, supply chain dynamics, and ground-level execution
-- 📈 **2+ years** exposure to financial markets — risk management, data-driven decision-making, analytical thinking
-- 🎯 Currently building a platform that **bridges the gap between user intent and real-world execution** — moving tasks from conversation to completion through a unified interface
-- 🤖 I build **AI agents that are FREE and zero-setup** — because AI should be for everyone, not just those with credit cards
+- **6+ years** hands-on experience in the commodity & FMCG distribution ecosystem, operations, supply chain dynamics, and ground-level execution
+- **3+ years** exposure to financial markets, risk management, data-driven decision-making, analytical thinking
+- Learning AI, Artificial General Intelligence and Data scientific algorithm
+- Building a platform that **bridges the gap between user intent and real-world execution**, moving tasks from conversation to completion through a unified interface
 
 <br>
 
