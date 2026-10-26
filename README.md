@@ -1,6 +1,6 @@
 <div align="center">
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./yousuf-header-dark.svg"/><img src="./yousuf-header.svg" width="840" alt="Mohd Yousuf - GitHub profile" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./yousuf-header-v2-dark.svg"/><img src="./yousuf-header-v2.svg" width="840" alt="Mohd Yousuf - GitHub profile" /></picture>
 
 <br>
 <br>
