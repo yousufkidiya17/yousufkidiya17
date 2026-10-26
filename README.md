@@ -1,13 +1,6 @@
 <div align="center">
 
-<h3><code>yousuf@github ~ $ whoami</code></h3>
-
-<table>
-<tr>
-<td valign="top"><img src="./yousuf-ascii.svg" width="340" alt="Mohammed Yousuf — ASCII portrait" /></td>
-<td valign="top"><img src="./yousuf-about.svg" width="440" alt="About — terminal with 3D M.Yousuf" /></td>
-</tr>
-</table>
+<img src="./yousuf-header.svg" width="840" alt="Mohd Yousuf - GitHub profile" />
 
 <br>
 <br>
