@@ -65,28 +65,6 @@ Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 
 <br>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yousufkidiya17&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousufkidiya17&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-
-</div>
-
-<br>
-
-## 🧩 Fun Terminal Block
-
-```
-yousuf@github ~$ ./hermeszen --install
-✅ Hermes + bridge + 7 free models + vision — DONE
-yousuf@github ~$ ./hermes --start
-⚡ Agent online. Ask anything — no API key, no credit card.
-```
-
-<br>
-
 ## 📣 Let's Connect
 
 <a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
