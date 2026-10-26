@@ -48,14 +48,14 @@ Pursuing **B.TECH from RKDF University, Bhopal (MP)**.
 
 | Project | What it is |
 |---|---|
-| **[tally-mcp](https://github.com/yousufkidiya17/tally-mcp)** | ⭐ Flagship Enterprise — Production Model Context Protocol (MCP) server for Tally Prime. 70 tools for automated GST billing, ledgers, multi-godown inventory, vouchers & PDF invoices with fail-closed security gating (214 tests passing). |
-| **[hermeszen-ai](https://github.com/yousufkidiya17/hermeszen-ai)** | Zero-setup Hermes AI agent. 7 free models (OpenCode Zen), web search + fetch, vision, 1-click install for Win/macOS/Linux |
-| **[hermes-mobile-modified](https://github.com/yousufkidiya17/hermes-mobile-modified)** | Hermes Mobile with embedded engine, terminal, skills & tools — full agent on your phone |
-| **[aetherix-ai](https://github.com/yousufkidiya17/aetherix-ai)** | AI-Powered Service Marketplace — order food, book rides, hire workers, check weather & search web through one chat interface (React, TS, Express, Mistral AI) |
-| [opencode-local-proxy](https://github.com/yousufkidiya17/opencode-local-proxy) | Portable OpenAI-compatible API gateway — proxies free OpenCode AI models locally, glassmorphic dashboard & playground |
-| [opencode-local-api](https://github.com/yousufkidiya17/opencode-local-api) | Supercharge OpenCode AI Agents — terminal access, safe file editing, background tasks & live web search via a lightweight Python API server |
-| [smart-trading-scanner](https://github.com/yousufkidiya17/smart-trading-scanner) | Smart Money Concept Scanner for Indian Stocks & Crypto — liquidity sweeps, order blocks, FVGs & institutional flow detection (Python + Streamlit) |
-| [train-travel-assistant](https://github.com/yousufkidiya17/train-travel-assistant) | Indian Railway AI Assistant — PNR status, seat availability, live train tracking & fare comparison (Python + Flask + AI) |
+| **[tally-mcp](https://github.com/yousufkidiya17/tally-mcp)** | ⭐ Flagship Enterprise, Production Model Context Protocol (MCP) server for Tally Prime. 70 tools for automated GST billing, ledgers, multi-godown inventory, vouchers & PDF invoices with fail-closed security gating (214 tests passing). |
+| **[aiml-journey](https://github.com/yousufkidiya17/aiml-journey)** | End-to-End AI/ML Engineering Journey, production-grade notebooks, Python fundamentals, NumPy, Data Analytics, and Deep Learning implementations. |
+| **[aetherix-ai](https://github.com/yousufkidiya17/aetherix-ai)** | AI-Powered Service Marketplace, order food, book rides, hire workers, check weather & search web through one chat interface (React, TS, Express, Mistral AI) |
+| **[smart-trading-scanner](https://github.com/yousufkidiya17/smart-trading-scanner)** | Smart Money Concept Scanner for Indian Stocks & Crypto, liquidity sweeps, order blocks, FVGs & institutional flow detection (Python + Streamlit) |
+| [OPEN-HERMES](https://github.com/yousufkidiya17/OPEN-HERMES) | Zero-setup Hermes AI agent, free OpenCode Zen models, web search + fetch built-in, vision ready. Install & chat. |
+| [hermeszen-adk](https://github.com/yousufkidiya17/hermeszen-adk) | AI agent team that builds real projects daily, Google ADK + DeepSeek via OpenCode Zen bridge |
+| [train-travel-assistant](https://github.com/yousufkidiya17/train-travel-assistant) | Indian Railway AI Assistant, PNR status, seat availability, live train tracking & fare comparison (Python + Flask + AI) |
+| [opencode-local-api](https://github.com/yousufkidiya17/opencode-local-api) | Supercharge OpenCode AI Agents, terminal access, safe file editing, background tasks & live web search via a lightweight Python API server |
 
 <br>
 
