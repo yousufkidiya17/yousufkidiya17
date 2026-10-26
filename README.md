@@ -12,16 +12,6 @@
 <br>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><picture><source media="(prefers-color-scheme: dark)" srcset="./social-linkedin-dark.svg"/><img src="./social-linkedin.svg" height="36" alt="LinkedIn" /></picture></a>&nbsp;
-  <a href="mailto:kidiyayousuf17@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="./social-email-dark.svg"/><img src="./social-email.svg" height="36" alt="Email" /></picture></a>&nbsp;
-  <a href="https://www.instagram.com/mohd_yousuf.17/"><picture><source media="(prefers-color-scheme: dark)" srcset="./social-instagram-dark.svg"/><img src="./social-instagram.svg" height="36" alt="Instagram" /></picture></a>
-</p>
-
-<br>
-<br>
-
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="./contrib-heatmap-dark.svg"/><img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph — auto-refreshed daily" /></picture>
 
 <br>
