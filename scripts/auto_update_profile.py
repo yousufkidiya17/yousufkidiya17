@@ -90,18 +90,14 @@ def update_readme(repos):
     )
     if n1 == 0:
         print("WARN: repo-count line not found, not updated")
-    # All Repositories section
-    others = [r["name"] for r in repos
-              if r["name"] not in featured and r["name"] != PROFILE_REPO]
-    links = ", ".join(
-        f"[{r}](https://github.com/yousufkidiya17/{r})" for r in others)
-    section = f"### All Repositories\n\n{links}\n"
+    # All Repositories section is intentionally NOT regenerated (removed by user 2026-11-03).
+    # If it ever reappears, delete it instead of updating it.
     t, n2 = re.subn(
-        r"### All Repositories\n\n.*?(?=\n## )", section, t, count=1, flags=re.S)
-    if n2 == 0:
-        print("WARN: All Repositories section not found, not updated")
+        r"### All Repositories\r?\n\r?\n.*?(?=\r?\n## )", "", t, count=1, flags=re.S)
+    if n2:
+        print("Removed stray All Repositories section")
     readme.write_text(t, encoding="utf-8", newline="\n")
-    print(f"README updated: total {total}, projects {projects}, featured {len(featured)}, others {len(others)}")
+    print(f"README updated: total {total}, projects {projects}, featured {len(featured)}")
 
 
 def update_graph():
