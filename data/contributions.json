@@ -1,17 +1,17 @@
 {
   "username": "yousufkidiya17",
-  "generated_at": "2026-10-25T07:09:51Z",
+  "generated_at": "2026-11-03T15:56:01Z",
   "range": {
-    "start": "2025-10-26",
-    "end": "2026-10-25"
+    "start": "2025-11-02",
+    "end": "2026-11-03"
   },
-  "total_contributions": 4192,
-  "active_days": 145,
-  "avg_per_active_day": 28.9,
+  "total_contributions": 4428,
+  "active_days": 158,
+  "avg_per_active_day": 28.0,
   "current_streak": {
-    "length": 0,
-    "start": null,
-    "end": null
+    "length": 1,
+    "start": "2026-11-03",
+    "end": "2026-11-03"
   },
   "longest_streak": {
     "length": 82,
@@ -23,10 +23,6 @@
     "count": 63
   },
   "monthly": [
-    {
-      "month": "2025-10",
-      "total": 0
-    },
     {
       "month": "2025-11",
       "total": 0
@@ -73,38 +69,14 @@
     },
     {
       "month": "2026-10",
-      "total": 676
+      "total": 910
+    },
+    {
+      "month": "2026-11",
+      "total": 2
     }
   ],
   "days": [
-    {
-      "date": "2025-10-26",
-      "count": 0
-    },
-    {
-      "date": "2025-10-27",
-      "count": 0
-    },
-    {
-      "date": "2025-10-28",
-      "count": 0
-    },
-    {
-      "date": "2025-10-29",
-      "count": 0
-    },
-    {
-      "date": "2025-10-30",
-      "count": 0
-    },
-    {
-      "date": "2025-10-31",
-      "count": 0
-    },
-    {
-      "date": "2025-11-01",
-      "count": 0
-    },
     {
       "date": "2025-11-02",
       "count": 0
@@ -1515,27 +1487,63 @@
     },
     {
       "date": "2026-10-20",
-      "count": 0
+      "count": 15
     },
     {
       "date": "2026-10-21",
-      "count": 0
+      "count": 12
     },
     {
       "date": "2026-10-22",
-      "count": 0
+      "count": 23
     },
     {
       "date": "2026-10-23",
-      "count": 0
+      "count": 19
     },
     {
       "date": "2026-10-24",
-      "count": 0
+      "count": 33
     },
     {
       "date": "2026-10-25",
+      "count": 15
+    },
+    {
+      "date": "2026-10-26",
+      "count": 26
+    },
+    {
+      "date": "2026-10-27",
+      "count": 12
+    },
+    {
+      "date": "2026-10-28",
+      "count": 19
+    },
+    {
+      "date": "2026-10-29",
+      "count": 30
+    },
+    {
+      "date": "2026-10-30",
+      "count": 23
+    },
+    {
+      "date": "2026-10-31",
+      "count": 7
+    },
+    {
+      "date": "2026-11-01",
       "count": 0
+    },
+    {
+      "date": "2026-11-02",
+      "count": 0
+    },
+    {
+      "date": "2026-11-03",
+      "count": 2
     }
   ]
 }
