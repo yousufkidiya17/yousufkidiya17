@@ -22,6 +22,8 @@
 
 ## Projects
 
+10 featured projects below — total **33 project repositories** (34 including this profile repo).
+
 <table>
 <tr>
 <td width="50%"><a href="https://github.com/yousufkidiya17/tally-mcp"><picture><source media="(prefers-color-scheme: dark)" srcset="./repo-tally-mcp-dark.svg"/><img src="./repo-tally-mcp.svg" width="100%" alt="tally-mcp" /></picture></a></td>
@@ -47,6 +49,10 @@
 
 <br>
 
+
+### All Repositories
+
+[hermes-mobile-modified](https://github.com/yousufkidiya17/hermes-mobile-modified), [expense-cli](https://github.com/yousufkidiya17/expense-cli), [snippet-manager](https://github.com/yousufkidiya17/snippet-manager), [log-parser](https://github.com/yousufkidiya17/log-parser), [rename-tool](https://github.com/yousufkidiya17/rename-tool), [csv-analyzer](https://github.com/yousufkidiya17/csv-analyzer), [todo-api](https://github.com/yousufkidiya17/todo-api), [weather-cli](https://github.com/yousufkidiya17/weather-cli), [git-helper](https://github.com/yousufkidiya17/git-helper), [timer-cli](https://github.com/yousufkidiya17/timer-cli), [json-validator](https://github.com/yousufkidiya17/json-validator), [file-organizer](https://github.com/yousufkidiya17/file-organizer), [quiz-cli](https://github.com/yousufkidiya17/quiz-cli), [notes-api](https://github.com/yousufkidiya17/notes-api), [pdf-tools](https://github.com/yousufkidiya17/pdf-tools), [password-vault](https://github.com/yousufkidiya17/password-vault), [url-shortener](https://github.com/yousufkidiya17/url-shortener), [markdown-blog](https://github.com/yousufkidiya17/markdown-blog), [habit-tracker](https://github.com/yousufkidiya17/habit-tracker), [may-backdate-test](https://github.com/yousufkidiya17/may-backdate-test), [date-experiment](https://github.com/yousufkidiya17/date-experiment), [hermes-agent](https://github.com/yousufkidiya17/hermes-agent), [opencode-local-proxy](https://github.com/yousufkidiya17/opencode-local-proxy)
 
 ## 🛠 Tech I Work With
 
