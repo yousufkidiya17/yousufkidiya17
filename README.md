@@ -5,12 +5,10 @@
 <br>
 <br>
 
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="./about-card-dark.svg"/><img src="./about-card.svg" width="840"></picture>
 
 <br>
 <br>
-
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./contrib-heatmap-dark.svg"/><img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph — auto-refreshed daily" /></picture>
 
@@ -48,11 +46,6 @@
 </table>
 
 <br>
-
-
-### All Repositories
-
-[hermes-mobile-modified](https://github.com/yousufkidiya17/hermes-mobile-modified), [expense-cli](https://github.com/yousufkidiya17/expense-cli), [snippet-manager](https://github.com/yousufkidiya17/snippet-manager), [log-parser](https://github.com/yousufkidiya17/log-parser), [rename-tool](https://github.com/yousufkidiya17/rename-tool), [csv-analyzer](https://github.com/yousufkidiya17/csv-analyzer), [todo-api](https://github.com/yousufkidiya17/todo-api), [weather-cli](https://github.com/yousufkidiya17/weather-cli), [git-helper](https://github.com/yousufkidiya17/git-helper), [timer-cli](https://github.com/yousufkidiya17/timer-cli), [json-validator](https://github.com/yousufkidiya17/json-validator), [file-organizer](https://github.com/yousufkidiya17/file-organizer), [quiz-cli](https://github.com/yousufkidiya17/quiz-cli), [notes-api](https://github.com/yousufkidiya17/notes-api), [pdf-tools](https://github.com/yousufkidiya17/pdf-tools), [password-vault](https://github.com/yousufkidiya17/password-vault), [url-shortener](https://github.com/yousufkidiya17/url-shortener), [markdown-blog](https://github.com/yousufkidiya17/markdown-blog), [habit-tracker](https://github.com/yousufkidiya17/habit-tracker), [may-backdate-test](https://github.com/yousufkidiya17/may-backdate-test), [date-experiment](https://github.com/yousufkidiya17/date-experiment), [hermes-agent](https://github.com/yousufkidiya17/hermes-agent), [opencode-local-proxy](https://github.com/yousufkidiya17/opencode-local-proxy)
 
 ## 🛠 Tech I Work With
 
