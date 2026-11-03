@@ -64,6 +64,9 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white" />
 </p>
 
 <br>
