@@ -47,6 +47,20 @@
 
 <br>
 
+## 🕸️ Crawlpedia Cyber Entities — Latest Project
+
+**Autonomous 60 FPS procedural inverse kinematics browser companion** — a mechanical creature that crawls over any live webpage in Chrome / Edge (Manifest V3), without touching inputs, passwords or editable areas.
+
+- **3 modes (M key):** Spider (8-leg 3-point IK), Centipede (16 chained segments), Rover (dual-axle skid steering)
+- **Movement:** Reynolds proportional arrival steering, mouse-follow, click to re-route, 1-9 target strikes, T auto search mission
+- **FX:** Electric footstep sparks, ground shockwave ripples, inter-leg laser filaments, surface draglines, sensory guide lines
+- **Tools:** R radar scanner (badges 01-16 on buttons/links), D dictionary decryptor (builtin lexicon + Wikipedia + Dictionary API), glitch text scrambler, V voice pronunciation, S mute
+- **Palettes (C key):** Cyan Synth, Toxic Lime, Neon Crimson, Electric Violet, Solar Amber
+- **Controls:** Alt+Shift+C spawn/dismiss, Space pause, Esc clean dismiss, popup Spawn/Dismiss
+- **Install:** Load unpacked `crawlpedia-extension/` in `edge://extensions/` or `chrome://extensions/` with Developer mode on, or paste `critter-cyber.js` in DevTools console
+
+🔗 [github.com/yousufkidiya17/crawlpedia-cyber-entities](https://github.com/yousufkidiya17/crawlpedia-cyber-entities)
+
 ## 🛠 Tech I Work With
 
 <p align="center">
