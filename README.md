@@ -12,7 +12,7 @@
 <br>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./contrib-heatmap-dark.svg"/><img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph — auto-refreshed daily" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./contrib-heatmap-dark.svg"/><img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph â€” auto-refreshed daily" /></picture>
 
 <br>
 
@@ -39,11 +39,15 @@
 <td width="50%"><a href="https://github.com/yousufkidiya17/train-travel-assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="./repo-train-travel-assistant-dark.svg"/><img src="./repo-train-travel-assistant.svg" width="100%" alt="train-travel-assistant" /></picture></a></td>
 <td width="50%"><a href="https://github.com/yousufkidiya17/opencode-local-api"><picture><source media="(prefers-color-scheme: dark)" srcset="./repo-opencode-local-api-dark.svg"/><img src="./repo-opencode-local-api.svg" width="100%" alt="opencode-local-api" /></picture></a></td>
 </tr>
+<tr>
+<td width="50%"><a href="https://github.com/yousufkidiya17/crawlpedia-cyber-entities"><picture><source media="(prefers-color-scheme: dark)" srcset="./repo-crawlpedia-cyber-entities-dark.svg"/><img src="./repo-crawlpedia-cyber-entities.svg" width="100%" alt="crawlpedia-cyber-entities" /></picture></a></td>
+<td width="50%"></td>
+</tr>
 </table>
 
 <br>
 
-## 🛠 Tech I Work With
+## ðŸ›  Tech I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -58,14 +62,15 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chrome%20Extension-4285F4?logo=googlechrome&logoColor=white" />
 </p>
 
 <br>
 
-## 📣 Let's Connect
+## ðŸ“£ Let's Connect
 
 <a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kidiyayousuf17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/mohd_yousuf.17/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 
-<sub>Profile built by 🤍</sub>
+<sub>Profile built by ðŸ¤</sub>
