@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="192" viewBox="0 0 400 192">
+<rect x="0.5" y="0.5" width="399" height="191" rx="8" fill="#161b22" stroke="#30363d"/>
+<text x="16" y="30" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="18" font-weight="700" fill="#e6edf3">agent-guardrails</text>
+<text x="16" y="56" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">Enterprise-grade execution guardrails,</text>
+<text x="16" y="78" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">anti-AI-slop filters and safety hooks</text>
+<text x="16" y="100" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">for Google Antigravity and AI Agent</text>
+<text x="16" y="122" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">IDEs, with pedagogical notebook</text>
+<text x="16" y="144" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#7d8590">structures and runtime protection.</text>
+</svg>

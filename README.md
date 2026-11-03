@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td width="50%"><a href="https://github.com/yousufkidiya17/crawlpedia-cyber-entities"><picture><source media="(prefers-color-scheme: dark)" srcset="./repo-crawlpedia-cyber-entities-dark.svg"/><img src="./repo-crawlpedia-cyber-entities.svg" width="100%" alt="crawlpedia-cyber-entities" /></picture></a></td>
-<td width="50%"></td>
+<td width="50%"><a href="https://github.com/yousufkidiya17/agent-guardrails"><picture><source media="(prefers-color-scheme: dark)" srcset="./repo-agent-guardrails-dark.svg"/><img src="./repo-agent-guardrails.svg" width="100%" alt="agent-guardrails" /></picture></a></td>
 </tr>
 </table>
 
