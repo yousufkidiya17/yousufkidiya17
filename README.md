@@ -12,7 +12,7 @@
 <br>
 
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="./contrib-heatmap-dark.svg"/><img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph â€” auto-refreshed daily" /></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./contrib-heatmap-dark.svg"/><img src="./contrib-heatmap.svg" width="860" alt="Yousuf's GitHub contribution graph — auto-refreshed daily" /></picture>
 
 <br>
 
@@ -47,7 +47,7 @@
 
 <br>
 
-## ðŸ›  Tech I Work With
+## 🛠 Tech I Work With
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
@@ -67,10 +67,10 @@
 
 <br>
 
-## ðŸ“£ Let's Connect
+## 📣 Let's Connect
 
 <a href="https://www.linkedin.com/in/mohd-yousuf-a9648b2b0/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" /></a>
 <a href="mailto:kidiyayousuf17@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 <a href="https://www.instagram.com/mohd_yousuf.17/"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" /></a>
 
-<sub>Profile built by ðŸ¤</sub>
+<sub>Profile built by 🤍</sub>
